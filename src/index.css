@@ -24,7 +24,7 @@ a:hover, a:focus, a:active {
 .container {
   background: linear-gradient(38deg, #67B26F, #C2E0C5);
   background-size: 400% 400%;
-  animation: bg 10s ease infinite;
+  border: 10px solid #29472C;
 }
 
 .flex-main {
@@ -40,7 +40,7 @@ a:hover, a:focus, a:active {
   box-sizing: content-box;
   height: 24px;
   background: #fff;
-  border-color: black;
+  border-color: #29472C;
   border-style: solid;
   border-width: 1px 1px 25px 1px;
   border-radius: 100%;
@@ -54,7 +54,7 @@ a:hover, a:focus, a:active {
   top: 50%;
   left: 0;
   background: #fff;
-  border: 9px solid black;
+  border: 9px solid #29472C;
   border-radius: 100%;
   width: 6px;
   height: 6px;
@@ -66,7 +66,7 @@ a:hover, a:focus, a:active {
   position: absolute;
   top: 50%;
   left: 50%;
-  background: black;
+  background: #29472C;
   border: 9px solid #fff;
   border-radius: 100%;
   width: 6px;
@@ -76,12 +76,6 @@ a:hover, a:focus, a:active {
 
 .icon { 
   margin-right: 10px;
-}
-
-@keyframes bg { 
-    0%{background-position:61% 0%}
-    50%{background-position:40% 100%}
-    100%{background-position:61% 0%}
 }
 
 @keyframes yin-spin {
