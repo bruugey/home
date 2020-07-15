@@ -10,6 +10,8 @@ function App() {
     return (
       <div className="container flex justify-center fixed top-0 left-0 right-0 bottom-0 p3">
         <div className="flex-main flex flex-column justify-center">
+          <h3>Hello there,</h3>
+
           <p>I'm Brooke Scarlett Yalof, a full-stack engineer and digital designer. Currently, I'm developing a design system <a href="https://github.com/mongodb/leafygreen-ui" {...anchorProps}>@MongoDB</a>. I'm passionate about building beautiful interfaces for users and creating a more inclusive Internet.</p>
           
           <p>
