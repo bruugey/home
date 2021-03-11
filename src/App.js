@@ -15,7 +15,7 @@ function App() {
           <p>I'm Brooke Scarlett Yalof, a full-stack engineer based in New York City. Currently, I'm developing an accessible design system <a href="https://github.com/mongodb/leafygreen-ui" {...anchorProps}>@MongoDB</a>. I'm passionate about building seamless experiences for developers, beautiful interfaces for users, and an inclusive Internet for everyone.</p>
         
           <p>
-          <span className="icon" role="img" aria-label="pile of books">📚</span>The Brother's Karamazov, The Argonauts, A Moveable Feast, <a href="https://www.theinfatuation.com/new-york" {...anchorProps}>The Infatuation </a>
+          <span className="icon" role="img" aria-label="pile of books">📚</span>The Brother's Karamazov, The Argonauts, A Moveable Feast, <a href="https://www.theinfatuation.com/new-york" {...anchorProps}>The Infatuation</a>
           </p>
 
           <p>
