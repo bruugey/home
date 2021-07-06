@@ -36,7 +36,7 @@ function App() {
         <a href="https://github.com/brookescarlett" {...anchorProps}>
           Github
         </a>
-        ,{" "}
+        ,{"  "}
         <a href="mailto:bsyalof@gmail.com" {...anchorProps}>
           Email
         </a>
