@@ -45,7 +45,7 @@ a:hover:before {
 
 .container {
   background-color: black;
-  border: 8px solid transparent;
+  border: 8px solid rgba(0, 0, 0, 0.99);
   border-image: linear-gradient(
     to bottom right,
     #ee0979 0%,
