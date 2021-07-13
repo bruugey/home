@@ -24,13 +24,12 @@ function App() {
       </p>
 
       <p>
-        Reach out if you want to talk about web accessibility, (queer)
-        literature, or where to see live music (mostly Grateful Dead cover
-        bands).
+        Reach out if you want to talk about web accessibility, queer literature,
+        or where to see live music (mostly Grateful Dead cover bands).
       </p>
 
       <p>
-        <span role="img" aria-label="call me emoji">
+        <span className="mr1" role="img" aria-label="call me emoji">
           🤙
         </span>
         <a href="https://github.com/brookescarlett" {...anchorProps}>
