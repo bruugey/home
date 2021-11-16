@@ -10,7 +10,7 @@ function App() {
     <div className="fixed top-0 left-0 bottom-0 right-0 flex flex-column justify-center container px4">
       <p>
         Hi, I'm <span className="bold">Brooke Scarlett Yalof</span>. I am a
-        user-first software engineer, based in New York City, who is passionate
+        user-first software engineer, based in Brooklyn, who is passionate
         about building accessible, purposeful and inclusive experiences on the
         web. Currently, I am working on the Dashboard Experience at{" "}
         <a href="https://stripe.com/" {...anchorProps}>
