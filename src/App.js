@@ -11,16 +11,7 @@ function App() {
       <p>
         Hi, I'm <span className="bold">Brooke Scarlett Yalof</span>. I am a
         user-first software engineer, based in Brooklyn, who is passionate
-        about building accessible, purposeful and inclusive experiences on the
-        web. Currently, I am working on the Dashboard Experience at{" "}
-        <a href="https://stripe.com/" {...anchorProps}>
-          Stripe
-        </a>
-        . Previously, I built a{" "}
-        <a href="https://github.com/mongodb/leafygreen-ui" {...anchorProps}>
-          Design System at MongoDB
-        </a>
-        .
+        about building accessible, purposeful and inclusive experiences on the web. Currently, I am leading  engineering for the <a href="https://github.com/mongodb/leafygreen-ui" {...anchorProps}>Design Systems team at MongoDB</a>. Previously, I worked on the Dashboard Experience at  <a href="https://stripe.com/" {...anchorProps}>Stripe</a>.
       </p>
 
       <p>
